@@ -1,0 +1,11 @@
+# --- some known artifacts to be ignored
+__pycache__/
+.env
+.env.*
+.ipynb_checkpoints/
+.venv/
+.vscode/
+*.log
+db.sqlite3
+local_settings.py
+# --- end of known artifacts
