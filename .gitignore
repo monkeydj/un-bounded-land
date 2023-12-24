@@ -1,11 +1,15 @@
 # --- some known artifacts to be ignored
 __pycache__/
-.env
-.env.*
-.ipynb_checkpoints/
+
 .venv/
 .vscode/
+.ipynb_checkpoints/
+
+.env
+.env.*
 *.log
-db.sqlite3
+
+*.sqlite3
+
 local_settings.py
 # --- end of known artifacts
