@@ -1,6 +1,7 @@
+# --- some known artifacts to be ignored
+.DS_Store
 .vscode
 
-# --- some known artifacts to be ignored
 __pycache__/
 
 .venv/
@@ -15,8 +16,6 @@ __pycache__/
 
 local_settings.py
 # --- end of known artifacts
-
-*.txt
 
 *.png
 *.jpg
